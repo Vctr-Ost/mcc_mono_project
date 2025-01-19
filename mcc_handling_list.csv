@@ -1,0 +1,39 @@
+﻿mcc;category;comment;handle_marker
+4111;Transport;Urban transport;FALSE
+4112;Transport;Railways;FALSE
+4121;Transport;Taxi;FALSE
+4214;Other;Delivery;TRUE
+4812;Other;Other;TRUE
+4814;Other;Mobile TopUp;FALSE
+4816;House;Utilities;FALSE
+4829;Money transfers;Money transfers;TRUE
+4899;Other;Other;TRUE
+4900;House;Utilities;FALSE
+5200;Other;Other items;TRUE
+5262;Other;Other items;TRUE
+5300;Other;Other items;TRUE
+5310;Other;Other items;TRUE
+5311;Other;Other items;TRUE
+5331;Other;Other items;TRUE
+5399;Other;Other items;TRUE
+5411;Food;Food;FALSE
+5441;Food;Food;FALSE
+5499;Food;Food;FALSE
+5541;Gas Stations;Gas Stations;FALSE
+5651;Clothes;Clothes;FALSE
+5691;Clothes;Clothes;FALSE
+5655;Sport;Items;TRUE
+5719;Other;Other;TRUE
+5732;Other;Other;TRUE
+5734;Other;Other;TRUE
+5812;Café&Restaurants;Café&Restaurants;FALSE
+5814;Café&Restaurants;Café&Restaurants;FALSE
+5912;Health;Pharmacy;FALSE
+5921;Food;Alcohol;FALSE
+5941;Sport;Items;TRUE
+6012;Money transfers;Money transfers;TRUE
+6536;Money transfers;Money transfers;TRUE
+7997;Sport;Sport;TRUE
+8021;Health;Dentistry;FALSE
+8043;Health;Optics;FALSE
+8099;Health;Medical Services;FALSE
